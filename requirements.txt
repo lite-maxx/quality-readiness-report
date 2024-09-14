@@ -1,7 +1,7 @@
 pandas
 numpy
 anthropic==0.34.2
-random
+random2==1.0.2
 json
 re
 time
