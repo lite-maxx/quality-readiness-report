@@ -1,6 +1,6 @@
 pandas
 numpy
-anthropic==1.21.6
+anthropic==0.34.2
 random
 json
 re
