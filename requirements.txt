@@ -2,3 +2,4 @@ anthropic==0.34.2
 random2==1.0.2
 streamlit==1.23.0  # Or a newer version
 tenacity==8.0.0  # Or a newer version
+pillow==9.5.0
