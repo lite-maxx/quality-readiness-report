@@ -4,3 +4,4 @@ streamlit==1.23.0  # Or a newer version
 tenacity==8.0.0  # Or a newer version
 pillow==9.2.0
 wheel==0.44.0
+zlib==1.2.13
