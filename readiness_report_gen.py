@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-from anthropic import AnthropicVertex
+from anthropic import AnthropicVertex # type: ignore
 import random
 import json
 import re
